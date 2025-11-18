@@ -13,7 +13,7 @@ Current GPA: **28.956 / 30**
 ### **BSc in Biomedical Engineering**  
 *University of Cagliari* — 2021–2024  
 Graduation grade: **110/110 cum laude**  
-Thesis: *Analysis of the changes in brain activity among patients with Alzheimer’s disease*  [oai_citation:2‡Tesi_Gabriele_Carta_UNICA_def.pdf](sediment://file_00000000455c720a9921a9ef04b7b51f)  
+Thesis: *Analysis of the changes in brain activity among patients with Alzheimer’s disease*  
 Focus: EEG processing, spectral features, Hurst/Hjorth parameters, novelty detection models.
 
 ---
@@ -52,7 +52,6 @@ Focus: EEG processing, spectral features, Hurst/Hjorth parameters, novelty detec
 Python-based analysis of EEG signals from AD/MCI/control groups.  
 Main steps: preprocessing, PSD, Hurst/Hjorth parameters, topomaps, spectrograms, statistical tests.  
 Goal: early biomarkers of cognitive decline.  
- [oai_citation:3‡Tesi_Gabriele_Carta_UNICA_def.pdf](sediment://file_00000000455c720a9921a9ef04b7b51f)
 
 ---
 
@@ -69,7 +68,7 @@ Goal: early biomarkers of cognitive decline.
 ## 🌍 Languages  
 - Italian — Native  
 - English — C1  
-- Erasmus experience in Poland (5 months)  [oai_citation:4‡CV6146961.pdf](sediment://file_00000000b3b4720a9168ae8096567c05)
+- Erasmus experience in Poland (5 months)
 
 ---
 
